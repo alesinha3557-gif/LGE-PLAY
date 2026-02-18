@@ -109,19 +109,19 @@ background:#0a0f22;
 <div class="plano">
 <h3>Básico</h3>
 <p class="preco">R$25</p>
-<button class="btn" onclick="copiarPix()">Pagar com Pix</button>
+<button class="btn" onclick="copiarPix(8537979e-0d41-4a1b-a567-76294e764141)">Pagar com Pix</button>
 </div>
 
 <div class="plano">
 <h3>Padrão</h3>
 <p class="preco">R$30</p>
-<button class="btn" onclick="copiarPix()">Pagar com Pix</button>
+<button class="btn" onclick="copiarPix 8537979e-0d41-4a1b-a567-76294e764141 ">Pagar com Pix</button>
 </div>
 
 <div class="plano">
 <h3>Premium</h3>
 <p class="preco">R$35</p>
-<button class="btn" onclick="copiarPix()">Pagar com Pix</button>
+<button class="btn" onclick="copiarPix 8537979e-0d41-4a1b-a567-76294e764141 ">Pagar com Pix</button>
 </div>
 
 </div>
@@ -129,7 +129,7 @@ background:#0a0f22;
 <div class="box">
 <h2>💳 Pagamento Pix</h2>
 <p>Chave Pix:</p>
-<p id="pix">SUA-CHAVE-PIX-AQUI</p>
+<p id="pix">SUA-CHAVE-PIX- 8537979e-0d41-4a1b-a567-76294e764141 /p>
 <button class="btn" onclick="copiarPix()">Copiar Chave Pix</button>
 </div>
 
@@ -154,6 +154,7 @@ navigator.clipboard.writeText(chave);
 alert("Chave Pix copiada!");
 }
 </script>
+<img width="1024" height="1024" alt="1000052446" src="https://github.com/user-attachments/assets/6ad29c6e-bd07-468b-ad4c-44f96cd82591" />
 
 </body>
 </html>
